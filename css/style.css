@@ -177,6 +177,10 @@ h2 .idx {
   object-position: center 20%;
 }
 
+.game-card:nth-child(5) .shot img {
+  object-position: center 20%;
+}
+
 .sheet {
   background: #282830;
   overflow: hidden;
